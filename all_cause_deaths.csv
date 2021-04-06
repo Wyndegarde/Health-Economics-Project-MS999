@@ -1,0 +1,55 @@
+measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Deaths,Ghana,Both,1 to 4,All causes,All risk factors,Number,2016,4065.2251369558417,6111.464102305215,2202.7720140838524
+Deaths,Ghana,Both,5 to 9,All causes,All risk factors,Number,2016,503.2649239686915,735.8058363565907,310.01716769019987
+Deaths,Ghana,Both,10 to 14,All causes,All risk factors,Number,2016,417.58884639266955,540.7008234984031,300.34451375745806
+Deaths,Ghana,Both,15 to 19,All causes,All risk factors,Number,2016,1120.952794927761,1439.3383292675958,821.3056584602417
+Deaths,Ghana,Both,20 to 24,All causes,All risk factors,Number,2016,1601.375759914117,2011.3120956021912,1245.8120954654783
+Deaths,Ghana,Both,25 to 29,All causes,All risk factors,Number,2016,2628.868816145081,3442.171134344628,2002.185757158652
+Deaths,Ghana,Both,30 to 34,All causes,All risk factors,Number,2016,3801.2718195734265,4834.554224429745,2988.750217892098
+Deaths,Ghana,Both,35 to 39,All causes,All risk factors,Number,2016,4858.402955825685,6026.461018519709,3855.4214075035666
+Deaths,Ghana,Both,40 to 44,All causes,All risk factors,Number,2016,5824.259761917004,6826.026849826104,4930.082322604465
+Deaths,Ghana,Both,45 to 49,All causes,All risk factors,Number,2016,6205.13038570357,7385.330738056004,5195.9016615255605
+Deaths,Ghana,Both,50 to 54,All causes,All risk factors,Number,2016,6616.213336274666,7874.160531046785,5579.402347348889
+Deaths,Ghana,Both,55 to 59,All causes,All risk factors,Number,2016,7038.928558809407,8630.137276537054,5917.239041542659
+Deaths,Ghana,Both,60 to 64,All causes,All risk factors,Number,2016,8406.72930547456,10123.595342521967,7103.499267653986
+Deaths,Ghana,Both,65 to 69,All causes,All risk factors,Number,2016,8692.559468009427,10178.283494988962,7616.982224675892
+Deaths,Ghana,Both,70+ years,All causes,All risk factors,Number,2016,31090.31333236526,34468.666553929834,28389.785474310458
+Deaths,Ghana,Both,15 to 19,Hypertensive heart disease,All risk factors,Number,2016,8.884074871743852,16.28068663195656,3.53924542949182
+Deaths,Ghana,Both,20 to 24,Hypertensive heart disease,All risk factors,Number,2016,12.002972398444612,21.33874486086445,5.254788135570915
+Deaths,Ghana,Both,25 to 29,Hypertensive heart disease,All risk factors,Number,2016,23.7828223950266,39.957467426363166,10.989218812625946
+Deaths,Ghana,Both,30 to 34,Hypertensive heart disease,All risk factors,Number,2016,37.7194802818475,62.64987642401942,17.862375475929078
+Deaths,Ghana,Both,35 to 39,Hypertensive heart disease,All risk factors,Number,2016,64.43876186957111,103.6346116402601,31.57347368646972
+Deaths,Ghana,Both,40 to 44,Hypertensive heart disease,All risk factors,Number,2016,79.83065962040271,129.91961590894954,39.23340400892111
+Deaths,Ghana,Both,45 to 49,Hypertensive heart disease,All risk factors,Number,2016,128.73888828278606,210.6517305808606,62.336571002995285
+Deaths,Ghana,Both,50 to 54,Hypertensive heart disease,All risk factors,Number,2016,166.00368335407023,260.8531036991417,82.99351760019407
+Deaths,Ghana,Both,55 to 59,Hypertensive heart disease,All risk factors,Number,2016,191.2418022475705,315.96485874457994,98.39775998566319
+Deaths,Ghana,Both,60 to 64,Hypertensive heart disease,All risk factors,Number,2016,263.05658086085816,425.4274578695955,125.62005693176188
+Deaths,Ghana,Both,65 to 69,Hypertensive heart disease,All risk factors,Number,2016,294.0583371354125,454.31111555552906,155.09246232445798
+Deaths,Ghana,Both,70+ years,Hypertensive heart disease,All risk factors,Number,2016,1125.5821106598485,1465.001739999998,686.2923330327694
+DALYs (Disability-Adjusted Life Years),Ghana,Both,1 to 4,All causes,All risk factors,Number,2016,414259.10361294704,590794.8675205844,256005.80987615747
+DALYs (Disability-Adjusted Life Years),Ghana,Both,5 to 9,All causes,All risk factors,Number,2016,106874.17357031337,142519.78253715206,74946.71627003643
+DALYs (Disability-Adjusted Life Years),Ghana,Both,10 to 14,All causes,All risk factors,Number,2016,61531.66073437683,82011.20160247826,46791.58258928292
+DALYs (Disability-Adjusted Life Years),Ghana,Both,15 to 19,All causes,All risk factors,Number,2016,115232.04345794198,141914.9431995338,89796.11339305053
+DALYs (Disability-Adjusted Life Years),Ghana,Both,20 to 24,All causes,All risk factors,Number,2016,155890.29681187018,187689.92933040866,128187.38824470728
+DALYs (Disability-Adjusted Life Years),Ghana,Both,25 to 29,All causes,All risk factors,Number,2016,217380.62988506551,270887.14251054527,173947.74570568764
+DALYs (Disability-Adjusted Life Years),Ghana,Both,30 to 34,All causes,All risk factors,Number,2016,269591.0245494043,330665.26588990533,219575.7683080041
+DALYs (Disability-Adjusted Life Years),Ghana,Both,35 to 39,All causes,All risk factors,Number,2016,303387.0573275091,366131.3788923544,249583.76188799803
+DALYs (Disability-Adjusted Life Years),Ghana,Both,40 to 44,All causes,All risk factors,Number,2016,322466.9936698334,371641.5411374711,278681.25574197306
+DALYs (Disability-Adjusted Life Years),Ghana,Both,45 to 49,All causes,All risk factors,Number,2016,309486.462033478,363506.35531969834,265128.94237139384
+DALYs (Disability-Adjusted Life Years),Ghana,Both,50 to 54,All causes,All risk factors,Number,2016,290524.7820783881,341500.5556077662,249991.03705546088
+DALYs (Disability-Adjusted Life Years),Ghana,Both,55 to 59,All causes,All risk factors,Number,2016,269889.5001594361,324638.1132218298,232618.08574245678
+DALYs (Disability-Adjusted Life Years),Ghana,Both,60 to 64,All causes,All risk factors,Number,2016,272280.88421171723,320862.73212405277,234002.00448930307
+DALYs (Disability-Adjusted Life Years),Ghana,Both,65 to 69,All causes,All risk factors,Number,2016,234710.52208458324,270248.85308494704,207568.9573388912
+DALYs (Disability-Adjusted Life Years),Ghana,Both,70+ years,All causes,All risk factors,Number,2016,496772.9313904031,550480.5943591486,452875.5737767625
+DALYs (Disability-Adjusted Life Years),Ghana,Both,15 to 19,Hypertensive heart disease,All risk factors,Number,2016,635.5140899196477,1163.9628385466167,253.6055807776886
+DALYs (Disability-Adjusted Life Years),Ghana,Both,20 to 24,Hypertensive heart disease,All risk factors,Number,2016,800.720087118477,1422.374972544251,351.58230093354814
+DALYs (Disability-Adjusted Life Years),Ghana,Both,25 to 29,Hypertensive heart disease,All risk factors,Number,2016,1469.9438380370964,2468.8497594645364,678.7041545561152
+DALYs (Disability-Adjusted Life Years),Ghana,Both,30 to 34,Hypertensive heart disease,All risk factors,Number,2016,2146.2996934241423,3560.753300824886,1017.675341303842
+DALYs (Disability-Adjusted Life Years),Ghana,Both,35 to 39,Hypertensive heart disease,All risk factors,Number,2016,3349.9157750063628,5361.494466182991,1648.747992628584
+DALYs (Disability-Adjusted Life Years),Ghana,Both,40 to 44,Hypertensive heart disease,All risk factors,Number,2016,3771.9985314646437,6117.334581982631,1856.3455642979166
+DALYs (Disability-Adjusted Life Years),Ghana,Both,45 to 49,Hypertensive heart disease,All risk factors,Number,2016,5464.784645370836,8919.124028851791,2690.080489978855
+DALYs (Disability-Adjusted Life Years),Ghana,Both,50 to 54,Hypertensive heart disease,All risk factors,Number,2016,6258.475088170432,9750.416430064332,3161.9438849645994
+DALYs (Disability-Adjusted Life Years),Ghana,Both,55 to 59,Hypertensive heart disease,All risk factors,Number,2016,6303.256888688868,10373.447544357608,3266.0625626387405
+DALYs (Disability-Adjusted Life Years),Ghana,Both,60 to 64,Hypertensive heart disease,All risk factors,Number,2016,7461.195018294938,11957.392434278554,3603.791861735249
+DALYs (Disability-Adjusted Life Years),Ghana,Both,65 to 69,Hypertensive heart disease,All risk factors,Number,2016,7082.080008243899,10782.933131214479,3874.8684758823465
+DALYs (Disability-Adjusted Life Years),Ghana,Both,70+ years,Hypertensive heart disease,All risk factors,Number,2016,16086.942697108258,21062.60840790178,9733.802910886801

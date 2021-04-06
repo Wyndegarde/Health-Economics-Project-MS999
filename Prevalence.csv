@@ -1,0 +1,41 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Prevalence,Ghana,Both,10 to 14,Hypertensive heart disease,Number,2016,0.0,0.0,0.0
+Prevalence,Ghana,Both,15 to 19,Hypertensive heart disease,Number,2016,6.723800914358477,14.734266330312025,2.069785047290428
+Prevalence,Ghana,Both,20 to 24,Hypertensive heart disease,Number,2016,21.244493155200864,41.14613155893837,9.090757755813748
+Prevalence,Ghana,Both,25 to 29,Hypertensive heart disease,Number,2016,54.01229165070972,116.03283585064243,20.40157031115378
+Prevalence,Ghana,Both,30 to 34,Hypertensive heart disease,Number,2016,105.98721033543188,207.58963889742972,43.36675645580355
+Prevalence,Ghana,Both,35 to 39,Hypertensive heart disease,Number,2016,209.10384120472602,437.4615272350702,82.17215968622058
+Prevalence,Ghana,Both,40 to 44,Hypertensive heart disease,Number,2016,401.2074010452385,810.1308538159009,178.00754720271192
+Prevalence,Ghana,Both,45 to 49,Hypertensive heart disease,Number,2016,747.0249815980854,1357.6686673786728,368.35256160274645
+Prevalence,Ghana,Both,50 to 54,Hypertensive heart disease,Number,2016,1000.4374015978583,1934.743795890308,485.63841814082167
+Prevalence,Ghana,Both,55 to 59,Hypertensive heart disease,Number,2016,1115.3179007728152,2194.6984606553915,486.6108551468238
+Prevalence,Ghana,Both,60 to 64,Hypertensive heart disease,Number,2016,1542.8707452009185,2928.2318049999258,691.1466076020716
+Prevalence,Ghana,Both,65 to 69,Hypertensive heart disease,Number,2016,2438.6816211799205,4506.155953192613,1254.1598648298423
+Prevalence,Ghana,Both,70+ years,Hypertensive heart disease,Number,2016,7328.775716031996,12298.565968724582,3968.9682264993426
+Prevalence,Ghana,Both,0 to 9,Hypertensive heart disease,Number,2016,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Ghana,Both,10 to 14,Hypertensive heart disease,Number,2016,0.0,0.0,0.0
+DALYs (Disability-Adjusted Life Years),Ghana,Both,15 to 19,Hypertensive heart disease,Number,2016,635.5140899196477,1163.9628385466167,253.6055807776886
+DALYs (Disability-Adjusted Life Years),Ghana,Both,20 to 24,Hypertensive heart disease,Number,2016,800.720087118477,1422.374972544251,351.58230093354814
+DALYs (Disability-Adjusted Life Years),Ghana,Both,25 to 29,Hypertensive heart disease,Number,2016,1469.9438380370964,2468.8497594645364,678.7041545561152
+DALYs (Disability-Adjusted Life Years),Ghana,Both,30 to 34,Hypertensive heart disease,Number,2016,2146.2996934241423,3560.753300824886,1017.675341303842
+DALYs (Disability-Adjusted Life Years),Ghana,Both,35 to 39,Hypertensive heart disease,Number,2016,3349.9157750063628,5361.494466182991,1648.747992628584
+DALYs (Disability-Adjusted Life Years),Ghana,Both,40 to 44,Hypertensive heart disease,Number,2016,3771.9985314646437,6117.334581982631,1856.3455642979166
+DALYs (Disability-Adjusted Life Years),Ghana,Both,45 to 49,Hypertensive heart disease,Number,2016,5464.784645370836,8919.124028851791,2690.080489978855
+DALYs (Disability-Adjusted Life Years),Ghana,Both,50 to 54,Hypertensive heart disease,Number,2016,6258.475088170432,9750.416430064332,3161.9438849645994
+DALYs (Disability-Adjusted Life Years),Ghana,Both,55 to 59,Hypertensive heart disease,Number,2016,6303.256888688868,10373.447544357608,3266.0625626387405
+DALYs (Disability-Adjusted Life Years),Ghana,Both,60 to 64,Hypertensive heart disease,Number,2016,7461.195018294938,11957.392434278554,3603.791861735249
+DALYs (Disability-Adjusted Life Years),Ghana,Both,65 to 69,Hypertensive heart disease,Number,2016,7082.080008243899,10782.933131214479,3874.8684758823465
+DALYs (Disability-Adjusted Life Years),Ghana,Both,70+ years,Hypertensive heart disease,Number,2016,16086.942697108258,21062.60840790178,9733.802910886801
+DALYs (Disability-Adjusted Life Years),Ghana,Both,0 to 9,Hypertensive heart disease,Number,2016,0.0,0.0,0.0
+Deaths,Ghana,Both,15 to 19,Hypertensive heart disease,Number,2016,8.88407487174385,16.28068663195656,3.53924542949182
+Deaths,Ghana,Both,20 to 24,Hypertensive heart disease,Number,2016,12.002972398444607,21.33874486086445,5.254788135570915
+Deaths,Ghana,Both,25 to 29,Hypertensive heart disease,Number,2016,23.78282239502662,39.957467426363166,10.989218812625946
+Deaths,Ghana,Both,30 to 34,Hypertensive heart disease,Number,2016,37.71948028184751,62.64987642401942,17.862375475929078
+Deaths,Ghana,Both,35 to 39,Hypertensive heart disease,Number,2016,64.43876186957108,103.6346116402601,31.57347368646972
+Deaths,Ghana,Both,40 to 44,Hypertensive heart disease,Number,2016,79.83065962040271,129.91961590894954,39.23340400892111
+Deaths,Ghana,Both,45 to 49,Hypertensive heart disease,Number,2016,128.73888828278598,210.6517305808606,62.336571002995285
+Deaths,Ghana,Both,50 to 54,Hypertensive heart disease,Number,2016,166.00368335407023,260.8531036991417,82.99351760019407
+Deaths,Ghana,Both,55 to 59,Hypertensive heart disease,Number,2016,191.24180224757043,315.96485874457994,98.39775998566319
+Deaths,Ghana,Both,60 to 64,Hypertensive heart disease,Number,2016,263.0565808608581,425.4274578695955,125.62005693176188
+Deaths,Ghana,Both,65 to 69,Hypertensive heart disease,Number,2016,294.0583371354126,454.31111555552906,155.09246232445798
+Deaths,Ghana,Both,70+ years,Hypertensive heart disease,Number,2016,1125.582110659848,1465.001739999998,686.2923330327694
